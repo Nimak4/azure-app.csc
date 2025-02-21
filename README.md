@@ -1,2 +1,2 @@
-# azure-app.csc
-Sample cloud app thing for school!
+# cheesefinder
+A cheese finding game
